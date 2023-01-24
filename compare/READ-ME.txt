@@ -1,0 +1,14 @@
+To use this script to compare two csv files and quickly print out the mismatched rows, you will need to do a few things:
+
+1.) Make sure that Python3 is installed on your PC -> Download from: https://www.python.org/downloads/
+2.) Make sure that the column content is ordered to be uniform in each csv file before running the script
+3.) Run IDLE and open compare.py -> Alternatively you can right click on compare.py and select 'Edit with IDLE'
+4.) Run the script in IDLE by either pressing F5, or by clicking Run from the toolbar
+5.) It will prompt you to select the two files you are comparing as soon as the script is run
+6.) It will output the mismatched rows into a separate window titled 'Compare CSV'
+
+I have stored two test sheets to compare in this folder
+
+
+
+AS OF 1/23: No need to store the script within the same directory as the files you are comparing
